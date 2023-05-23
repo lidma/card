@@ -30,8 +30,8 @@ Got inspired to do card element similar like facebook add-friends by building re
 
 ### Links
 
-- Solution URL: (https://github.com/lidma/Qr-code-component-elementor-challenge/tree/main/QR%20CODE)
-- Live Site URL: (https://github.com/lidma/Qr-code-component-elementor-challenge/tree/main/QR%20CODE)
+- Solution URL: (gh repo clone lidma/card)
+- Live Site URL: (gh repo clone lidma/card)
 - 
 ## My process
 
